@@ -15,6 +15,13 @@ The project incorporates computer vision, machine learning and an IP camera for 
 We detect the obstacle and after detecting the object, navigation path are given to the user. For being economical we use a camera feature instead of relying on acquired help like guide dogs.
 We’ve used the Single Shot Detector (SSD) which provides a good balance between speed and accuracy since the project would work on real-time implementation. The COCO dataset is used for the objects.
 The code is written in python and tensorflow is used as machine learning backend. An IP camera is used to get live feed and process the result. This result is further compared and fed to a python file that takes in sensor data and processes the data. This result is then compared to threshold values and audio cues are provided.
+<img src="https://github.com/AkhilDixit1998/Raah-Darshni/blob/master/outputs/finaloutput.gif" height="450">
+
+<img src="https://github.com/AkhilDixit1998/Raah-Darshni/blob/master/outputs/continue.jpeg" height="450">
+<img src="https://github.com/AkhilDixit1998/Raah-Darshni/blob/master/outputs/movright.jpeg" height="450">
+<img src="https://github.com/AkhilDixit1998/Raah-Darshni/blob/master/outputs/stop.jpeg" height="450">
+
+
 
 ## Business Strategy
 #### 1
@@ -28,6 +35,8 @@ After an initial assessment and market research we would launch our second and t
 
 #### 4
 Our main product assessment and recognition would be by these devices whose services would be billed quarterly.
+
+<img src="https://github.com/AkhilDixit1998/Raah-Darshni/blob/master/outputs/businessmodel.PNG" height="450">
 
 
 
